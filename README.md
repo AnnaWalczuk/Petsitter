@@ -39,4 +39,6 @@ import datetime
 
 ### Launch
 
-Run the project using “Menu.py”
+Run the project using “Menu.py”  
+admin login and password: axo  
+example of employee login and passwod: pxt  
